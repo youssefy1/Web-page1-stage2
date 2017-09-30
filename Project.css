@@ -39,7 +39,7 @@ nav {
 }
 
 .sectThree {
-  background-image: url(4.jpg);
+  background-image: url(4.jpg)
 }
 
 ul {
@@ -76,4 +76,20 @@ ul li ul li {
 
 ul li:hover ul li {
   display: block;
+}
+
+#h1 {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: 'Pacifico', cursive;
+  width: 330px;
+  height: 220px;
+  background: gray;
+  line-height: 50px;
+  border-radius: 5px;
+  text-align: center;
+  transform: translate(500px,200px);
+  opacity: 0.5;
+  filter: alpha (opacity=80);
 }
