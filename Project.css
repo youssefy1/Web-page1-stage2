@@ -82,7 +82,7 @@ ul li:hover ul li {
   margin: 0px;
   padding: 0px;
   color: white;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Lobster', cursive;
   width: 330px;
   height: 220px;
   background: gray;
@@ -91,5 +91,5 @@ ul li:hover ul li {
   text-align: center;
   transform: translate(500px,200px);
   opacity: 0.5;
-  filter: alpha (opacity=80);
+  filter: alpha (opacity=50);
 }
